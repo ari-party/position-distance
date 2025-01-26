@@ -12,7 +12,10 @@
 
 Website to calculate elevation and azimuth (and more) for artillery in [MTC](https://www.roblox.com/games/9520328730).
 
-Dev branch site: [dev.artillery-calculator.com](https://dev.artillery-calculator.com)
+| Branch         | Site                                                                                                                                       |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Release branch | [release.artillery-calculator.com](https://release.artillery-calculator.com), [artillery-calculator.com](https://artillery-calculator.com) |
+| Dev branch     | [dev.artillery-calculator.com](https://dev.artillery-calculator.com)                                                                       |
 
 [![stats](https://umami-views.astrid.exposed/svg?shareURL=https://umami.astrid.exposed/share/Ps68DOSbQBecNH0l/artillery-calculator.com&theme=light)](https://github.com/ari-party/umami-views)
 
