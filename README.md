@@ -18,7 +18,7 @@ Website to calculate elevation and azimuth (and more) for artillery in [MTC](htt
 | `dev`          | [dev.artillery-calculator.com](https://dev.artillery-calculator.com)                                                                       | [dev.download.artillery-calculator.com](https://dev.download.artillery-calculator.com) |
 | `sunny-valley` | [sunny-valley.artillery-calculator.com](https://sunny-valley.artillery-calculator.com)                                                     | N/A                                                                                    |
 
-[![stats](https://umami-views.cf-01.servers.astrid.ovh/svg?shareURL=https://analytics.astrid.exposed/share/EbboPxt202HztOT9/artillery-calculator.com&theme=light)](https://github.com/ari-party/umami-views)
+[![stats](https://umami-views.astrid.exposed/svg?shareURL=https://analytics.astrid.exposed/share/EbboPxt202HztOT9/artillery-calculator.com&theme=light)](https://github.com/ari-party/umami-views)
 
 ## Translating
 
