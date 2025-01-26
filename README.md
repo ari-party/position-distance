@@ -12,10 +12,11 @@
 
 Website to calculate elevation and azimuth (and more) for artillery in [MTC](https://www.roblox.com/games/9520328730).
 
-| Branch         | Site                                                                                                                                       |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Release branch | [release.artillery-calculator.com](https://release.artillery-calculator.com), [artillery-calculator.com](https://artillery-calculator.com) |
-| Dev branch     | [dev.artillery-calculator.com](https://dev.artillery-calculator.com)                                                                       |
+| Branch         | Site                                                                                                                                       | Download site                                                                          |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| `release`      | [release.artillery-calculator.com](https://release.artillery-calculator.com), [artillery-calculator.com](https://artillery-calculator.com) | [download.artillery-calculator.com](https://download.artillery-calculator.com)         |
+| `dev`          | [dev.artillery-calculator.com](https://dev.artillery-calculator.com)                                                                       | [dev.download.artillery-calculator.com](https://dev.download.artillery-calculator.com) |
+| `sunny-valley` | [sunny-valley.artillery-calculator.com](https://sunny-valley.artillery-calculator.com)                                                     | N/A                                                                                    |
 
 [![stats](https://umami-views.astrid.exposed/svg?shareURL=https://umami.astrid.exposed/share/Ps68DOSbQBecNH0l/artillery-calculator.com&theme=light)](https://github.com/ari-party/umami-views)
 
