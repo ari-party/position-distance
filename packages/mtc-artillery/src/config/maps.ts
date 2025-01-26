@@ -188,15 +188,15 @@ export const gameMaps: Record<string, GameMap> = {
     size: 1113 * 9,
   },
 
-  the_map: {
-    heightmap: {
-      0: -147.68359375,
-      255: 159.07421875,
-    },
-    image: 'the_map',
-    name: 'The Map',
-    size: 22943,
-  },
+  // the_map: {
+  //   heightmap: {
+  //     0: -147.68359375,
+  //     255: 159.07421875,
+  //   },
+  //   image: 'the_map',
+  //   name: 'The Map',
+  //   size: 22943,
+  // },
 
   villers_sommeil: {
     heightmap: {
