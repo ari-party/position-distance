@@ -1,8 +1,6 @@
 import todec from '2dec';
-import Plus from '@mui/icons-material/Add';
 import Box from '@mui/joy/Box';
 import Button from '@mui/joy/Button';
-import Tooltip from '@mui/joy/Tooltip';
 import Typography from '@mui/joy/Typography';
 import { useTranslations } from 'next-intl';
 
@@ -55,22 +53,7 @@ export default function ProjectileButton({
           width: '100%',
         }}
       >
-        <Typography display="flex">
-          {projectile.name}
-
-          {projectile.explosiveMass && (
-            <Tooltip
-              placement="top"
-              size="sm"
-              title={t('typography.blastRange')}
-              variant="plain"
-            >
-              <Typography color="primary" fontSize={12}>
-                <Plus />
-              </Typography>
-            </Tooltip>
-          )}
-        </Typography>
+        <Typography display="flex">{projectile.name}</Typography>
 
         <Typography fontWeight={500} level="body-sm">
           {t('typography.metersPerSecond', {

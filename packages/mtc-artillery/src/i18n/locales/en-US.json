@@ -4,7 +4,6 @@
   },
   "typography": {
     "azimuth": "Azimuth",
-    "blastRange": "This projectile has blast range data",
     "distance": "Distance",
     "downloadOverlay": "Download the in-game overlay at <link></link>.",
     "elevation": "Elevation",
