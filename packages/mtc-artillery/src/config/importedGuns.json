@@ -5,6 +5,12 @@
         "velocity": 241,
         "explosiveMass": 0.0959,
         "name": "M383"
+      },
+      {
+        "velocity": 241,
+        "blastMultiplier": 2,
+        "explosiveMass": 0.03,
+        "name": "M430A1"
       }
     ],
     "name": "Humvee"
@@ -253,6 +259,12 @@
         "velocity": 241,
         "explosiveMass": 0.0959,
         "name": "M383"
+      },
+      {
+        "velocity": 241,
+        "blastMultiplier": 2,
+        "explosiveMass": 0.03,
+        "name": "M430A1"
       }
     ],
     "name": "Ariete PSO"
